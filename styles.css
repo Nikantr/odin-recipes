@@ -1,0 +1,21 @@
+.body {
+    background-color: #E0AFA0;
+    color: #090C02
+}
+.header {
+    font-family: "Monaco", monospace;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+}
+.list {
+    font-family: "Monaco", monospace;
+    font-size: 20px;
+    text-align: center;
+}
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+ul {
+    list-style-type: none;
+}
